@@ -1,0 +1,46 @@
+* {
+    margin: 0;
+    margin: 0;
+ }
+ .t {
+    background-color: black;
+    text-align: center;
+    color: rgb(255, 255, 255);
+    padding: 1%;
+    font-size: 200%;
+    width:100%;
+ }
+ p {
+    margin: 1%;
+ }
+ .n{
+    width:100%;
+   
+ }
+ .g {
+  width: 70%;
+  margin:1%;
+  text-align: left;
+ }
+ ul {
+   border-left:5px solid rgb(0, 0, 0) ;
+    
+ }
+ .с {
+float: right;
+width:30%;
+ }
+a {
+  color: rgb(0, 0, 0);
+  transition: color ease 500ms;
+  text-decoration: none;
+
+}
+a:hover {
+background-color: black;
+color: white;
+}
+ img {
+   width: 20%;
+   margin: 1%;
+ }
